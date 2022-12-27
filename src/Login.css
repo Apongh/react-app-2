@@ -1,0 +1,41 @@
+.body {
+    width: 300px;
+  background-color: aqua;
+  border-radius: 20px ;
+  -webkit-border-radius: 20px ;
+  -moz-border-radius: 20px ;
+  -ms-border-radius: 20px ;
+  -o-border-radius: 20px ;
+  padding: 30px;
+  margin: 100px auto;
+}
+
+button{
+    border: none;
+    outline: none;
+    padding: 10px 30px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    cursor: pointer;
+    margin-left: 40px;
+}
+
+input{
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+.secondery-body{
+    width: 200px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
